@@ -12,6 +12,10 @@ This project is intended for educational purposes to demonstrate various concept
 - **Network Bound Resource**: Efficient refresh logic and caching for better performance and user experience.
 - **Offline Support**: Access and browse memes even without an internet connection.
 
+## Demo
+ <video width="320" height="240" src="https://github.com/user-attachments/assets/1d9580bc-9cdc-423d-a718-fb96cbc52e3d" type="video/mp4"> Your browser does not support the video tag. </video>
+//Here is the video demo
+
 ## Key Functionalities
 
 - **Browse Memes**: View the latest trending memes from Reddit in a clean, engaging interface.
